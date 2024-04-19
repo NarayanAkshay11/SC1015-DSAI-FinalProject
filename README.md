@@ -15,8 +15,6 @@ Our motivation stems from the urgent need to address the rampant spread of misin
 [Aryan Garg](#)
 
 ## Data Collection
-Initial Datasets : 
+Initial Datasets ->
 
-[Intermediate Dataset](https://kaggle.com/datasets/e4bc75dbac1aa58277121814c3f35d663f1e929e442eac2bf84cfb4b40ae531b)
-
-[Final Dataset]
+[All Processed Datasets](https://www.kaggle.com/datasets/akshaynarayananb/sc1015dsai-final-fce2-team-1-23-24)
