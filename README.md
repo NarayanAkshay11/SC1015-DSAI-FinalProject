@@ -17,8 +17,11 @@ Our motivation stems from the urgent need to address the rampant spread of misin
 ## Data Collection
 Initial Datasets:
 https://huggingface.co/datasets/liar
+
 https://www.kaggle.com/datasets/sonalgarg174/ifnd-dataset
+
 https://www.kaggle.com/datasets/imbikramsaha/fake-real-news
+
 
 
 
