@@ -16,11 +16,13 @@ Our motivation stems from the urgent need to address the rampant spread of misin
 
 ## Data Collection
 Initial Datasets:
+
 https://huggingface.co/datasets/liar
 
 https://www.kaggle.com/datasets/sonalgarg174/ifnd-dataset
 
 https://www.kaggle.com/datasets/imbikramsaha/fake-real-news
+
 
 
 
@@ -77,6 +79,7 @@ Given the higher accuracy of the neural network (83.5), it might be considered t
 
 ## References
 https://www.simplilearn.com/tutorials/deep-learning-tutorial/neural-network 
+
 https://www.ibm.com/downloads/cas/GB8ZMQZ3 
 
 
